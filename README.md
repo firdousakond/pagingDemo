@@ -7,7 +7,7 @@
 2. Dependency Injection - Koin
 3. Asynchronous operation - Co-Routine
 4. HTTP Request - Retrofit, Paging3
-4. Storage  Room
+4. Storage - Room
 
 *This app has few features as listed below*
 
