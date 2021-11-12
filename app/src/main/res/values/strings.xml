@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PagingDemo</string>
+    <string name="search_user">Search User..</string>
+    <string name="msg_network_unavailable">Please check your internet connection</string>
+    <string name="retry">Retry</string>
+    <string name="username">Username</string>
+    <string name="user_type">User Type</string>
+    <string name="url">URL</string>
+    <string name="favourite_users">Favourite Users</string>
+    <string name="no_users_found">No users Found!</string>
+</resources>
